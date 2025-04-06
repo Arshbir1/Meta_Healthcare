@@ -1,0 +1,5 @@
+// English translations for web UI
+// Example:
+// "dashboard_title": "Doctor Dashboard",
+// "upload_button": "Upload Report",
+// Used by translate.py to populate templates dynamically
