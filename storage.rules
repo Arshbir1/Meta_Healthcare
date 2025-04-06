@@ -1,0 +1,3 @@
+// Firebase Cloud Storage rules
+// Patients can upload reports, doctors can view them
+// Access controlled based on Firestore metadata
