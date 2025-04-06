@@ -1,0 +1,4 @@
+// Firestore security rules
+// Restrict access by role: patient, doctor, responder
+// Ensure patients can only read their own data
+// Allow doctors to read/write only their patients
