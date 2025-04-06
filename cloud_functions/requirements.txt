@@ -1,0 +1,7 @@
+# Python dependencies for all Cloud Functions
+# Includes:
+# - google-cloud-functions
+# - google-cloud-vision
+# - google-cloud-dlp
+# - firebase-admin
+# - openai / vertexai
