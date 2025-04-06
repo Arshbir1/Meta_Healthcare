@@ -1,6 +1,5 @@
-# app.py
-# Flask entry point for serving web frontend
-# Handles routing for index, dashboard, upload, and chatbot pages
-# Loads translations using translate.py
-# Connects to Firebase (via Admin SDK if needed)
-# Sends user data and translated strings to HTML templates
+# Flask backend entry point
+# Serves HTML pages for doctors (login, dashboard, upload)
+# Handles Firestore access and routes to trigger/view data
+# Integrates with Cloud Functions via HTTP calls
+# Uses Jinja templates and translation utilities
